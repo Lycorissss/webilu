@@ -18,7 +18,7 @@ const Kadidat = () => {
                 <div class="container py-5 text-center">
                     <div class="row mb-5">
                         <div class="col-md-8 col-xl-6 text-center mx-auto">
-                            <h3 class="fw-bold">Calon Kadidat Pemilu</h3>
+                            <h3 class="fw-bold">Calon Kandidat Pemilu</h3>
                         </div>
                     </div>
                     <div class="row row-cols-1 row-cols-md-2 mx-auto">

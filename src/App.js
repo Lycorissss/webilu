@@ -12,6 +12,10 @@ import Panduan from './pages/panduan'
 import Kadidat from './pages/Kadidat'
 import Data from './pages/Data'
 import About from './pages/About'
+import Pemilu from './pages/pemilu'
+import Peran from './pages/peran'
+import Role from './pages/role'
+import Partisipasi from './pages/partisipasi'
 
 function App() {
   return (
@@ -23,6 +27,10 @@ function App() {
         <Route path='/data' element={<Data />} />
         <Route path='/kadidat' element={<Kadidat />} />
         <Route path='/aboutus' element={<About />} />
+        <Route path='/pemilu' element={<Pemilu />} />
+        <Route path='/role' element={<Role />} />
+        <Route path='/peran' element={<Peran />} />
+        <Route path='/partisipasi' element={<Partisipasi />} />
 
       </Routes>
     </Router>

@@ -20,7 +20,7 @@ const Home = () => {
                                 <section class="py-4 py-xl-5">
                                     <div class="container">
                                         <div class="text-center">
-                                            <h4 class="fw-bold mb-4"><span class="span-font">Pemilu memainkan peran penting dalam membentuk kebijakan publik di negara demokratis. Melalui pemilu, warga negara memiliki kesempatan untuk memilih para pemimpin dan partai politik yang akan mewakili mereka dalam proses pengambilan keputusan. Artikel ini akan menguraikan mengapa pemilu memainkan peran penting dalam membentuk kebijakan publik, serta dampaknya terhadap proses demokrasi dan kehidupan masyarakat.</span><br /></h4><button class="btn btn-primary fs-5 me-2 py-2 px-4" type="button">Baca Lebih Lanjut</button>
+                                            <h4 class="fw-bold mb-4"><span class="span-font">Pemilu memainkan peran penting dalam membentuk kebijakan publik di negara demokratis. Melalui pemilu, warga negara memiliki kesempatan untuk memilih para pemimpin dan partai politik yang akan mewakili mereka dalam proses pengambilan keputusan. Artikel ini akan menguraikan mengapa pemilu memainkan peran penting dalam membentuk kebijakan publik, serta dampaknya terhadap proses demokrasi dan kehidupan masyarakat.</span><br /></h4><button class="btn btn-primary fs-5 me-2 py-2 px-4" type="button"><a href="pemilu">Baca Lebih Lanjut</a></button>
                                         </div>
                                     </div>
                                 </section>
@@ -50,21 +50,21 @@ const Home = () => {
                             <div class="col mb-4">
                                 <div class="card bg-primary-light">
                                     <div class="card-body text-center px-4 py-5 px-md-5">
-                                        <h5 class="fw-bold card-title mb-3">Mengapa Berpartisipasi Dalam Pemilu Penting?<br /></h5><button class="btn btn-primary btn-sm" type="button">Baca Lebih Lanjut</button>
+                                        <h5 class="fw-bold card-title mb-3">Mengapa Berpartisipasi Dalam Pemilu Penting?<br /></h5><button class="btn btn-primary btn-sm" type="button"><a href='partisipasi'>Baca Lebih Lanjut</a></button>
                                     </div>
                                 </div>
                             </div>
                             <div class="col mb-4">
                                 <div class="card bg-secondary-light">
                                     <div class="card-body text-center px-4 py-5 px-md-5">
-                                        <h5 class="fw-bold card-title mb-3">Bagaimana Sistem Pemilu Berjalan?<br /></h5><button class="btn btn-secondary btn-sm" type="button">Baca Lebih Lanjut</button>
+                                        <h5 class="fw-bold card-title mb-3">Bagaimana Sistem Pemilu Berjalan?<br /></h5><button class="btn btn-secondary btn-sm" type="button"><a href='role'>Baca Lebih Lanjut</a></button>
                                     </div>
                                 </div>
                             </div>
                             <div class="col mb-4">
                                 <div class="card bg-info-light">
                                     <div class="card-body text-center px-4 py-5 px-md-5">
-                                        <h5 class="fw-bold card-title mb-3">Peran Partai Politik itu Apa?</h5><button class="btn btn-info btn-sm" type="button">Baca Lebih Lanjut</button>
+                                        <h5 class="fw-bold card-title mb-3">Peran Partai Politik itu Apa?</h5><button class="btn btn-info btn-sm" type="button"><a href='peran'>Baca Lebih Lanjut</a></button>
                                     </div>
                                 </div>
                             </div>

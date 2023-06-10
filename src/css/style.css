@@ -82,3 +82,11 @@ img.rounded.img-fluid.shadow.w-100.fit-cover.size-foto-kadida {
 .p-berita {
     font-size: 13px;
 }
+
+button a {
+    color: #fff;
+}
+
+button a:hover {
+    color: #fff;
+}

@@ -22,8 +22,8 @@ const About = () => {
                         <div class="col col-md-4 col-xxl-4 col-sm-6"><div class="container"><figure class="snip1563">
                             <img src={Navy} alt="sample110" />
                             <figcaption>
-                                <h3>Navy</h3>
-
+                                <h3>Navy Gibran Atallah Tupan</h3>
+                                <p>(00000087546)</p>
                             </figcaption>
                             <a href="#"></a>
                         </figure>
@@ -31,8 +31,8 @@ const About = () => {
                         <div class="col col-md-4 col-xxl-4 col-sm-6"><div class="container"><figure class="snip1563">
                             <img src={Nisa} alt="sample110" />
                             <figcaption>
-                                <h3>Nisa</h3>
-
+                                <h3>Annisa Nurahmah </h3>
+                                <p>(00000087578)</p>
                             </figcaption>
                             <a href="#"></a>
                         </figure>
@@ -41,7 +41,7 @@ const About = () => {
                             <img src={Farel} alt="sample110" />
                             <figcaption>
                                 <h3>Farel</h3>
-
+                                <p>(00000075163)</p>
                             </figcaption>
                             <a href="#"></a>
                         </figure>
@@ -50,6 +50,7 @@ const About = () => {
                             <img src={Devon} alt="sample110" />
                             <figcaption>
                                 <h3>Devon</h3>
+                                <p>(00000068985)</p>
                             </figcaption>
                             <a href="#"></a>
                         </figure>
